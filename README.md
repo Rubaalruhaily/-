@@ -1,4 +1,4 @@
-# Arm Package 
+# Arm-Package 
 How to assemble a robotic arm 
 
 # Pre requirements:
