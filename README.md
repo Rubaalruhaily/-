@@ -1,5 +1,5 @@
 # Arm-Package 
-How to assemble a robotic arm 
+
 
 # Pre requirements:
 * Tinkercard
@@ -7,7 +7,7 @@ How to assemble a robotic arm
 * Arm Package (U can find it at Smart Method Github )
 
 
-# 1- Assemble robot Arm 
+# 1- robot Arm 
 # Steps :
 
 * 1.1 Base
